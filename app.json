@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FastProject",
+    "slug": "FastProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
